@@ -1,4 +1,6 @@
-# Oiii! Eu sou o Vinícius 🚀
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+Prazer!+👋;+Eu+sou+Vinícius+Oliveira!+🚀;" />
+</h1>
 
 Estudante da área de TI e entusiasta em tecnologia.
 
@@ -30,3 +32,9 @@ Você pode me encontrar e entrar em contato comigo através das seguintes plataf
   <a href="mailto:vinicius_os95@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-534838288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+
+
+
+
+
