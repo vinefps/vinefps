@@ -15,5 +15,10 @@ Estudante da área de TI pela Newton Paiva - BH. Optei pela área após ter come
 
 Apaixonado por tecnologia, estou focado em aprender cada dia mais.
 
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+
 ### Meu Portfolio:
-https://portfolio-projects-gules.vercel.app/
+[https://portfolio-projects-gules.vercel.app/](https://portfolio-projects-gules.vercel.app/)
