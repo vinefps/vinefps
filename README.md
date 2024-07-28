@@ -25,6 +25,6 @@ Apaixonado por tecnologia, estou focado em aprender cada dia mais.
 
 
 <h2>Linguagens Mais Usadas:</h2>
-        <div class="most-used-languages">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-github&layout=compact" alt="Linguagens Mais Usadas">
-        </div>
+<div class="most-used-languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinefps&layout=compact" alt="Linguagens Mais Usadas">
+</div>
