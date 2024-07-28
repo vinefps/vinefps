@@ -18,7 +18,6 @@ Apaixonado por tecnologia, estou focado em aprender cada dia mais.
 ### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-oliveira-534838288/)
-
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinefps)
 
 ### Meu Portfolio:
