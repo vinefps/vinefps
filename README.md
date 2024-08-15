@@ -21,7 +21,7 @@ Apaixonado por tecnologia, estou focado em aprender cada dia mais.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinefps)
 
 ### Meu Portfolio:
-[[https://portfolio-projects-gules.vercel.app/](https://portfolio-projects-gules.vercel.app/)](https://portfolio-ntsu.vercel.app/)
+(https://portfolio-ntsu.vercel.app/)
 
 
 <h2>Linguagens Mais Usadas:</h2>
